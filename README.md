@@ -150,7 +150,7 @@ mutation {
 
 ## React İstemci (Apollo) Hızlı Başlangıç
 
-> Orijinal notlarda `apollo-boost` ve `react-apollo` kullanılmış (artık eski). Aşağıda **güncel Apollo Client** ile kısa kurulum yer alıyor.
+> Aşağıda **güncel Apollo Client** ile kısa kurulum yer alıyor.
 
 ```bash
 # React uygulaması oluşturma (örnek isim: graphql-client)
