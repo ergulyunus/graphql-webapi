@@ -1,4 +1,4 @@
-# GraphQL Web API (.NET Core) — Geliştirilmiş README
+# GraphQL Web API (.NET Core) — README
 
 Bu depo; **ASP.NET Core** ve **GraphQL.NET** ile geliştirilmiş bir Web API örneği ve **PostgreSQL** veritabanı ile çalışacak şekilde hazırlanmış **Docker Compose** dosyası içerir. Ayrıca örnek bir **React (Apollo Client)** entegrasyonu için hızlı başlangıç adımları sunar.
 
