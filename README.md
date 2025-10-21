@@ -234,4 +234,3 @@ docker rm <CONTAINER_ID> -f
 
 ## Lisans
 
-Bu depo için lisans belirtilmemiştir. Açık kaynak lisansı eklemek isterseniz `LICENSE` dosyası oluşturabilirsiniz (MIT vb.).
